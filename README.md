@@ -40,4 +40,3 @@ Thanks to open-source developers and tutorials that helped shape each of the min
 Geeta Shree Kishan
 MCA Student | Web Developer | Game Creator
 
-Connect on LinkedIn | Follow on GitHub
