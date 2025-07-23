@@ -24,10 +24,15 @@ Or, simply open index.html in any modern browser for basic game functionality.
 
 📢 Features
 🎮 7 fully functional games in one platform
+
 🌐 Works in modern web browsers
+
 🧠 Brainy puzzles and fast-paced arcade action
+
 💾 Optional PHP backend for saving scores and user sessions
+
 🤝 Contributing
+
 Pull requests are welcome! Feel free to fork the repo and submit improvements, bug fixes, or new game additions.
 
 📄 License
